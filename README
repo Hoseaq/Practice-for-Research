@@ -1,4 +1,4 @@
-root -b HelloWorldROOT
+root -b HelloWorldROOT.C
 
 g++ HelloWorldCompile.C -o HelloWorldCompile.exe
 ./HelloWorldCompile.exe
