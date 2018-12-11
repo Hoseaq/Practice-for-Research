@@ -1,4 +1,4 @@
-void HelloWorld
+void HelloWorld()
 
 {  cout<<" Hello World" << endl;
    }
