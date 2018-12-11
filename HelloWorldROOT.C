@@ -1,4 +1,4 @@
-void HelloWorld()
+void HelloWorldROOT()
 {
 
   cout << "Hello World" << endl;
